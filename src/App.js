@@ -27,7 +27,7 @@ export default function App() {
 
   return (
     <div>
-      <h3> UseState hooks fundamental </h3>
+      <h3> -- UseState hooks fundamental-- </h3>
       <p>
         Use state hooks counter example for the rerender the previous values
       </p>
